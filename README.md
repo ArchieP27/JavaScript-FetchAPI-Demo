@@ -46,7 +46,7 @@ project/
 - Vanilla JavaScript (ES6+)
 - [JSONPlaceholder API](https://jsonplaceholder.typicode.com/)
 
-  ## ℹ️ Note on Offline Error Handling
+## ℹ️ Note on Offline Error Handling
 
 This app includes custom error handling using JavaScript’s `fetch().catch()` block. If the user is offline or there's a network failure, a user-friendly message is shown on the page.
 
